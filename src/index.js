@@ -107,7 +107,7 @@ function jump() {
     return;  
   }
     
-  dog.body.velocity.y = -300;
+  dog.body.velocity.y = -295;
 
   // animation for dog jumping
   var animation = game.add.tween(dog);

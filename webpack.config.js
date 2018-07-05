@@ -22,7 +22,7 @@ module.exports = {
   devServer: {
     publicPath: '/assets/scripts/',
     contentBase: path.join(__dirname, 'public'),
-    port: 3000
+    port: 5000
   }
 
 };

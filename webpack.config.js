@@ -22,7 +22,7 @@ module.exports = {
   devServer: {
     publicPath: '/assets/scripts/',
     contentBase: path.join(__dirname, 'public'),
-    port: process.env.PORT || 8080
+    port: process.env.PORT || 3000 
   }
 
 };
